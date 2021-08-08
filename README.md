@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 
+Software Development student, who loves travel, learn about new cultures and meet new people.
+
 - 🔭 I’m currently working on Apple Developer Academy PUCRS
 - 🌱 I’m currently learning iOS development 
 - 😄 Pronouns: him / his 
