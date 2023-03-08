@@ -3,7 +3,7 @@
 
 Software Development student, who loves travel, learn about new cultures and meet new people.
 
-- 🔭 iOS developer at PagBank PagSeguro
+- 🔭 iOS developer 
 - 🌱 I’m currently learning iOS development 
 - 😄 Pronouns: him / his 
   <body>
